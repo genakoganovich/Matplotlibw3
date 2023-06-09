@@ -1,0 +1,4 @@
+Specify Which Grid Lines to Display
+You can use the axis parameter in the grid() function to specify which grid lines to display.
+
+Legal values are: 'x', 'y', and 'both'. Default value is 'both'.

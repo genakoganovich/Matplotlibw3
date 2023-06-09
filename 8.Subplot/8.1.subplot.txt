@@ -1,0 +1,2 @@
+Display Multiple Plots
+With the subplot() function you can draw multiple plots in one figure

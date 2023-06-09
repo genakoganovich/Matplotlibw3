@@ -1,0 +1,1 @@
+With Pyplot, you can use the xlabel() and ylabel() functions to set a label for the x- and y-axis

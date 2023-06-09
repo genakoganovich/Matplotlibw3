@@ -1,0 +1,6 @@
+You can also plot many lines by adding the points for the x- and y-axis for each line in the same plt.plot() function.
+
+(In the examples above we only specified the points on the y-axis, meaning that the points on the x-axis got the the
+default values (0, 1, 2, 3).)
+
+The x- and y- values come in pairs

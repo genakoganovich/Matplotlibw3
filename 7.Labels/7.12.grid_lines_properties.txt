@@ -1,0 +1,4 @@
+Set Line Properties for the Grid
+You can also set the line properties of the grid, like this:
+
+grid(color = 'color', linestyle = 'linestyle', linewidth = number).

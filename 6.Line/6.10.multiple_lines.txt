@@ -1,0 +1,1 @@
+You can plot as many lines as you like by simply adding more plt.plot() functions:

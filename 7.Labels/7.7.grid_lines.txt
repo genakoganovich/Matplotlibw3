@@ -1,0 +1,1 @@
+With Pyplot, you can use the grid() function to add grid lines to the plot.
